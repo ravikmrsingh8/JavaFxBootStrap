@@ -1,0 +1,9 @@
+.idea/
+out/
+*.iml
+*.jar
+*.bat
+target/
+preferences.properties
+Output/
+/bin/
